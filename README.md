@@ -1,11 +1,5 @@
 # Rumble-GYM
 
-José Raúl David Corona
-
-Juan José Salazar Villegas
-
-Juan Emmanuel Fernández de Lara Hernández
-
 # Proyecto hosteado en servidor.
 https://rumble-gym.000webhostapp.com/
 
